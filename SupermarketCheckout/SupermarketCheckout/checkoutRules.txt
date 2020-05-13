@@ -1,0 +1,5 @@
+apples 0.40 3 0.90
+bananas 0.75 10 6.00
+coconuts 2.00 2 3.00
+donuts 0.50
+oranges 0.45 2 0.80

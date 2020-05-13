@@ -1,0 +1,10 @@
+﻿  CashRegister.cpp
+  Product.cpp
+C:\Users\tdesi\source\repos\SupermarketCheckout\SupermarketCheckout\Product.h(1,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Inventory.cpp
+C:\Users\tdesi\source\repos\SupermarketCheckout\SupermarketCheckout\Product.h(1,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  SupermarketCheckout.cpp
+C:\Users\tdesi\source\repos\SupermarketCheckout\SupermarketCheckout\Product.h(1,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+C:\Users\tdesi\source\repos\SupermarketCheckout\SupermarketCheckout\Product.h(1,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  SupermarketCheckout.vcxproj -> C:\Users\tdesi\source\repos\SupermarketCheckout\x64\Debug\SupermarketCheckout.exe

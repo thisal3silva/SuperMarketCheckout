@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Executable>C:\Users\tdesi\source\repos\SupermarketCheckout\x64\Debug\Test_SupermarketCheckout.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="ProductClass.TestConstructor" Duration="1" />
+    <TestDuration Test="ProductClassTest.TestConstructor" Duration="1" />
+    <TestDuration Test="ProductClassTest.TestUpdate" Duration="1" />
+    <TestDuration Test="ProductClassTest.TestGetPrice" Duration="1" />
+    <TestDuration Test="ProductClassTest.TestGetProductName" Duration="1" />
+    <TestDuration Test="InventoryClassTest.TestAddItem" Duration="1" />
+    <TestDuration Test="InventoryClassTest.TestDeleteItem" Duration="1" />
+    <TestDuration Test="InventoryClassTest.TestUpdateItem" Duration="1" />
+    <TestDuration Test="CashRegisterClassTest.TestScanItem" Duration="1" />
+    <TestDuration Test="CashRegisterClassTest.TestScanMultipleOfSameItem" Duration="1" />
+    <TestDuration Test="CashRegisterClassTest.TestScanMultipleItems" Duration="1" />
+    <TestDuration Test="CashRegisterClassTest.TestScanMultipleItemsMultipleTimes" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>
