@@ -1,3 +1,7 @@
+Open SupermarketCheckout.sln in Visual studio
+
+Question available below
+
 Requirements:
 1) Must be coded in C++
 2) Use an Objected Oriented design approach
